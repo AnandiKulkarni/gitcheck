@@ -7,6 +7,10 @@
     {
       "id": "Movies",
       "isDefault": false
+    },
+    {
+      "id": "Apps_SMS_Template_Master",
+      "isDefault": false
     }
   ],
   "viewMode": false,
